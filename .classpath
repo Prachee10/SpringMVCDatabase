@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_101">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/com.springsource.sts.ide.tomcat.runtimeTarget/Pivotal tc Server Developer Edition (Runtime) v3.1">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/antlr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/dom4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/hibernate-annotations-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/javassist-3.10.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/javax.persistence-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/jboss-transaction-api_1.1_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/mysql-connector-java-5.0.5-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.apache.commons.dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.aop-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.asm-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.aspects-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.beans-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.context.support-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.context-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.core-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.expression-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.instrument.tomcat-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.instrument-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.jdbc-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.jms-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.orm-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.oxm-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.test-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.transaction-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.web.portlet-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.web.servlet-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.web.struts-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/org.springframework.web-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Prachees/Desktop/jars/springmvcJar/spring-hibernate3.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
